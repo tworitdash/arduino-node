@@ -25,5 +25,5 @@ or
 Because there is a variable i in the write.js which takes value while running from the terminal.
 If it is a "b", then the LED at pin 13 will blink and if it is a "c", then the LED at pin 11 will blink.
 
-Try it out <a href = "twitter.com/abraubhav">@abranubhav</a>
+Try it out <a href = "http://twitter.com/abraubhav">@abranubhav</a>.
 
